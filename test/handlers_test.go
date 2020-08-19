@@ -1,8 +1,8 @@
 package test
 
 import (
-	unitTest "gin_unit_test/initRouter"
-	utils "gin_unit_test/utils"
+	unitTest "github.com/chenxuehui1/gin_test/initRouter"
+	utils "github.com/chenxuehui1/gin_test/utils"
 	"github.com/gin-gonic/gin"
 	"io/ioutil"
 	"log"

@@ -2,7 +2,7 @@ package initRouter
 
 import (
 	"encoding/json"
-	"gin_unit_test/utils"
+	"github.com/chenxuehui1/gin_test/utils"
 	"io/ioutil"
 	"log"
 	"net/http"
